@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://github.com/piyushchugeja/ExpenseTracker/assets/66639966/b470fefb-5a29-46ce-84b7-b7d2cb2ea9bd" align="center" />
   
-Expense Tracker by Skolers
+Expense Tracker by Utkarsh
 </h1>
 
 <h3>Problem statement: </h3>
